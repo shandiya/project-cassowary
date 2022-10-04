@@ -1,0 +1,9 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+bird_subset|stem|d88cb0007624a148|e01465451582bbee|556dfc75adcf7973|-22646664||t19269.25164983s|4ee275e9c5aaed22|265|rds|local|vector|||0.041||
+data|stem|56fe8c781d127e8f|f0c78c8250679058|4cd208af67e2c8d6|1588979285||t19269.2516492552s|ed116af26f5b3327|71194|rds|local|vector|||1.732||
+data_subset|stem|e9542696c3441023|a82ac794c9c6ee02|1bf1d48bde1f2d7a|1041076605||t19269.2516507643s|7eaffa0641e5225d|574|rds|local|vector|||0.079||
+fit_glm|function|b68bd191cb6aa8b1|||||||||||||||
+get_bird_sample|function|23ba828fe77b3646|||||||||||||||
+get_data|function|cc880c70139b3d77|||||||||||||||
+get_small_dataset|function|d714354f3c3a50da|||||||||||||||
+model|stem|ef934d26b172e303|74b6d8f34659a110|507a9c62cc67e098|1816327236||t19269.2619372166s|d6f6cb245ef27b75|356|rds|local|vector|||0.41||
